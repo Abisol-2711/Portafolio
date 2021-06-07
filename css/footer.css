@@ -1,0 +1,30 @@
+.footer{
+  background: linear-gradient(to right, #59c173, #a17fe0, #5d26c1);
+  padding: 60px 0 30px 0;
+  margin: auto;
+  overflow: hidden;
+}
+.icons{
+  display: flex;
+  margin: auto;
+  justify-content: space-around;
+  width: 100%;
+}
+.icon{
+  font-size: 4em;
+}
+.scale:hover {
+  transform: scale(1.2);
+}
+.fa-facebook{
+  color: #113a94;
+}
+.fa-instagram{
+  color: #c32aa3;
+}
+.fa-twitter{
+  color: #1da1f2;
+}
+.fa-github{
+  color: #000000;
+}

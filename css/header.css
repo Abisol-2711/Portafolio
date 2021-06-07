@@ -1,0 +1,23 @@
+.header{
+  background-color: #191919;
+  height: 70px;
+  width: 100%;
+  position: fixed;
+  margin-top: -100px;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.list-item{
+  list-style: none;
+  display: inline-block;
+  padding-left:10px;
+}
+.nav-text{
+  text-decoration: none;
+  color:#616161;
+}
+.nav-text:hover{
+ text-decoration: underline wavy #ffffff;
+  color: #ffffff;
+}
