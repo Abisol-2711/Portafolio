@@ -15,9 +15,7 @@ $cuerpo.="Consulta: $consulta \n" ;
 
 // Envio del email
 mail($destinatario,$asunto,$cuerpo);
-
-
-// echo $nombre, "<h2>Gracias por contactarnos!!!</h2>";        
+header("Location: mensaje_de_envio.html")
  ?>
 
 
