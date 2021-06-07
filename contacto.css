@@ -1,0 +1,21 @@
+form{
+    text-align: center;
+}
+
+input{
+    color: #ffffff;
+    background-color:  #704F4F;
+	height: 3em;
+    width: 50em;
+    margin-bottom: 2em;
+}
+
+textarea{
+    color: #ffffff;
+	background-color: #704F4F;
+	margin:15px;
+}
+
+#btn{
+	width: 5em;
+}

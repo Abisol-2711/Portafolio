@@ -16,7 +16,7 @@ $cuerpo.="Consulta: $consulta \n" ;
 // Envio del email
 mail($destinatario,$asunto,$cuerpo);
 header("Location: mensaje_de_envio.html")
- ?>
+?>
 
 
 
